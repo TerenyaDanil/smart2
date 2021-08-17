@@ -1,0 +1,39 @@
+/* Arabic Title */
+.arabic-title__section {
+    margin-bottom: 50px;
+}
+.arabic-title__content {
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+    padding: 0 0 80px;
+}
+.arabic-title__title {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 36px;
+    line-height: 39px;
+    color: #343a40;
+    margin: 0 0 10px;
+}
+.arabic-title__paragraph {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 24px;
+    line-height: 38px;
+    margin: 0;
+}
+@media screen and (max-width: 1230px) {
+    .arabic-title__content {
+        max-width: 100%;
+        padding: 0 15px;
+    }
+}
+@media screen and (max-width: 429px) {
+    .arabic-title__section {
+        margin-bottom: 0;
+    }
+    .arabic-title__paragraph {
+        max-width: 235px;
+        margin: auto;
+    }
+}
+/* Arabic Title */

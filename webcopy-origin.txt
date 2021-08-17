@@ -1,0 +1,164 @@
+Uri: https://test1.tripmersion.com/smarttrader-ar
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\smarttrader-ar-1.html
+Content Type: text/html
+
+Uri: https://test1.tripmersion.com/web/image/website/24/favicon?unique=acb8797
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\web\image\website\24\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://test1.tripmersion.com/web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\web\static\lib\fontawesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://test1.tripmersion.com/web/content/3315-facc5e7/24/web.assets_common.css
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\web\content\3315-facc5e7\24\web.assets_common.css
+Content Type: text/css
+
+Uri: https://test1.tripmersion.com/web/content/3317-1d7aee4/24/web.assets_frontend.css
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\web\content\3317-1d7aee4\24\web.assets_frontend.css
+Content Type: text/css
+
+Uri: https://www.facebook.com/AcademySmartTrader/
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\AcademySmartTrader\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCl3e9UKNKx4vR0JvTOh-T6A?view_as=subscriber
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\channel\UCl3e9UKNKx4vR0JvTOh-T6A.html
+Content Type: text/html
+
+Uri: https://test1.tripmersion.com/smarttrader-ar/
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\smarttrader-ar\index-1.htm
+Content Type: text/html
+
+Uri: https://my.npbfx.com/register
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\register.html
+Content Type: text/html
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/css/ar/arabic-banner.css
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\css\ar\arabic-banner.css
+Content Type: text/css
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/css/ar/arabic-schedule.css
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\css\ar\arabic-schedule.css
+Content Type: text/css
+
+Uri: https://my.npbfx.biz/register
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\register-1.html
+Content Type: text/html
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/css/ar/arabic-what-we-offer.css
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\css\ar\arabic-what-we-offer.css
+Content Type: text/css
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/css/ar/arabic-features.css
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\css\ar\arabic-features.css
+Content Type: text/css
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/css/ar/arabic-title.css
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\css\ar\arabic-title.css
+Content Type: text/css
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/css/ar/arabic-start-earning.css
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\css\ar\arabic-start-earning.css
+Content Type: text/css
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/css/ar/arabic-form-image.css
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\css\ar\arabic-form-image.css
+Content Type: text/css
+
+Uri: https://test1.tripmersion.com/website_snippets/static/footers/css/footer_smarttrader.css?1626359804
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\footers\css\footer_smarttrader.css
+Content Type: text/css
+
+Uri: https://test1.tripmersion.com/web/content/2937-c231455/24/web.assets_common_minimal_js.js
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\web\content\2937-c231455\24\web.assets_common_minimal_js.js
+Content Type: application/javascript
+
+Uri: https://test1.tripmersion.com/web/content/2938-98a2fd4/24/web.assets_frontend_minimal_js.js
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\web\content\2938-98a2fd4\24\web.assets_frontend_minimal_js.js
+Content Type: application/javascript
+
+Uri: https://test1.tripmersion.com/theme_smarttrader_ar/static/img/flags/arab.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\theme_smarttrader_ar\static\img\flags\arab.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/theme_smarttrader_ar/static/img/flags/united-kingdom.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\theme_smarttrader_ar\static\img\flags\united-kingdom.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/theme_smarttrader_ar/static/img/flags/indonesia.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\theme_smarttrader_ar\static\img\flags\indonesia.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/theme_smarttrader_ar/static/img/flags/malaysia.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\theme_smarttrader_ar\static\img\flags\malaysia.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/theme_smarttrader_ar/static/img/flags/vietnam.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\theme_smarttrader_ar\static\img\flags\vietnam.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/theme_smarttrader_ar/static/img/flags/russia.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\theme_smarttrader_ar\static\img\flags\russia.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/theme_smarttrader_ar/static/img/sm-logo.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\theme_smarttrader_ar\static\img\sm-logo.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/img/what-we-offer-2.jpg
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\img\what-we-offer-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/img/what-we-offer-1.jpg
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\img\what-we-offer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/img/lens.jpg
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\img\lens.jpg
+Content Type: image/jpeg
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/img/briefcase.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\img\briefcase.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/img/chart.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\img\chart.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/img/bulbhead.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\img\bulbhead.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/img/shield.jpg
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\img\shield.jpg
+Content Type: image/jpeg
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/img/handshake.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\img\handshake.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/smarttrader/img/start-earning-mobile.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\smarttrader\img\start-earning-mobile.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/footers/img/smart_trader-logo.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\footers\img\smart_trader-logo.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/footers/img/phone.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\footers\img\phone.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/footers/img/email.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\footers\img\email.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/footers/img/icon-footer.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\footers\img\icon-footer.png
+Content Type: image/png
+
+Uri: https://test1.tripmersion.com/website_snippets/static/footers/img/time.png
+File Name: C:\Downloaded Web Sites\test1.tripmersion.com\website_snippets\static\footers\img\time.png
+Content Type: image/png
+

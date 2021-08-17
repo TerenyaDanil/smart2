@@ -1,0 +1,103 @@
+/* What we offer */
+.what-we-offer__content {
+    max-width: 1200px;
+    margin: auto;
+    padding: 80px 0 60px;
+}
+.what-we-offer__top-side {
+    direction: rtl;
+    margin-bottom: 24px;
+    text-align: right;
+}
+.what-we-offer__header {
+    color: #343a40;
+    font-size: 35px;
+    line-height: 39px;
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+}
+.what-we-offer__header_second {
+    font-size: 16px;
+    line-height: 19px;
+    color: #343a40;
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+}
+.what-we-offer__bottom-side {
+    display: flex;
+}
+.what-we-offer__item + .what-we-offer__item {
+    margin-left: 30px;
+}
+.what-we-offer__item.what-we-offer__item_text {
+    flex-grow: 2;
+    background: linear-gradient(-150deg, rgb(151, 199, 78) 0%, rgb(42, 185, 165) 100%);
+    padding: 48px;
+    box-sizing: border-box;
+    direction: rtl;
+}
+.what-we-offer__item_title-small {
+    margin: 0;
+    color: #fff;
+    font-family: "Segoe UI", sans-serif;
+    text-align: right;
+}
+.what-we-offer__item_title {
+    margin: 0;
+    color: #fff;
+    font-size: 28px;
+    line-height: 31px;
+    text-align: right;
+}
+.what-we-offer__item_img {
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+@media screen and (max-width: 1230px) {
+    .what-we-offer__content {
+        max-width: 100%;
+        padding: 80px 15px 60px;
+    }
+}
+@media screen and (max-width: 429px) {
+    .what-we-offer__section {
+        padding: 0;
+    }
+    .what-we-offer__top-side {
+        margin-bottom: 48px;
+    }
+    .what-we-offer__header {
+        font-size: 26px;
+        line-height: 28px;
+    }
+    .what-we-offer__bottom-side {
+        flex-direction: column-reverse;
+    }
+    .what-we-offer__item + .what-we-offer__item {
+        margin: 0 0 30px;
+    }
+    .what-we-offer__item_img {
+        width: 100%;
+    }
+    .what-we-offer__item_title {
+        font-size: 23px;
+        line-height: 25px;
+    }
+    .what-we-offer__item_title-small {
+        font-size: 20px;
+        line-height: 22px;
+    }
+}
+@media screen and (min-width: 429px) and (max-width: 813px) {
+    .what-we-offer__item.what-we-offer__item_text {
+        padding: 14px;
+    }
+    h4.what-we-offer__item_title-small {
+        font-size: calc(1rem + 0.3vw) !important;
+    }
+    h3.what-we-offer__item_title {
+        font-size: calc(1.2rem + 0.3vw) !important;
+    }
+}
+/* What we offer */

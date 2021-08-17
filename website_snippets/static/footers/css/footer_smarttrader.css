@@ -1,0 +1,592 @@
+.smarttrader__footer {
+    margin: 0;
+    font-family: "Roboto", "Odoo Unicode Support Noto", sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: white;
+    direction: ltr;
+}
+
+:lang(AR) .smarttrader__footer {
+    direction: rtl;
+}
+
+.smarttrader__footer .container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.smarttrader__footer .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.smarttrader__footer .nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.smarttrader__footer .media {
+    display: flex;
+    align-items: flex-start;
+}
+
+.smarttrader__footer img {
+    max-width: 100%;
+    height: auto;
+}
+
+.smarttrader__footer ul {
+    padding: 0;
+    margin: 0;
+}
+
+.smarttrader__footer {
+    padding-top: 5rem;
+    padding-bottom: 3.8rem;
+}
+
+.smarttrader__footer footer .footer-logo {
+    display: block;
+}
+
+.smarttrader__footer footer .footer-logo img {
+    height: auto;
+    width: 188px;
+}
+
+.smarttrader__footer footer .widget {
+    position: relative;
+}
+
+.smarttrader__footer .address {
+    background-image: url("/website_snippets/static/footers/img/world-map.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: auto;
+}
+:lang(AR) .smarttrader__footer .address {
+    background-position: right 5px;
+    background-size: 100%;
+}
+
+.smarttrader__footer .list-unstyled .media {
+    display: flex;
+    align-items: center;
+}
+.smarttrader__footer .list-unstyled .media:first-child font {
+    direction: ltr;
+    color: rgb(143, 147, 151);
+}
+.smarttrader__footer .list-unstyled .media:first-child,
+.smarttrader__footer .list-unstyled .media:first-child a,
+.smarttrader__footer .list-unstyled .media:first-child a:hover {
+    color: rgb(143, 147, 151);
+}
+.smarttrader__footer .list-unstyled .media:last-child {
+    margin-bottom: 0 !important;
+}
+:lang(AR) .smarttrader__footer .list-unstyled .media:nth-child(3),
+:lang(AR) .smarttrader__footer .list-unstyled .media:last-child {
+    font-family: "Segoe", Tahoma, Geneva, Verdana, sans-serif;
+}
+:lang(AR) .smarttrader__footer .list-unstyled .media:last-child img {
+    margin-top: -16px;
+}
+
+.smarttrader__footer .footer__column .media img {
+    margin-right: 16px;
+}
+:lang(AR) .smarttrader__footer .footer__column .media img {
+    margin-left: 16px;
+    margin-right: 0;
+}
+
+.smarttrader__footer .footer__column .media,
+.smarttrader__footer .footer__column .media.footer__paragraph,
+.smarttrader__footer .footer__column .media .footer__paragraph {
+    font-size: 14px;
+    line-height: 21.24px;
+}
+
+.smarttrader__footer .divider {
+    color: #8f9397;
+    width: 100%;
+    margin: 0px auto;
+    overflow: hidden;
+    text-align: center;
+    line-height: 0em;
+    direction: ltr;
+}
+
+:lang(AR) .smarttrader__footer .footer-copyright .copyright-text {
+    text-align: right;
+    font-family: "Segoe", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.smarttrader__footer .footer-copyright .container > div {
+    padding: 40px 0 !important;
+}
+
+.smarttrader__footer .divider:before {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    content: "";
+    display: inline-block;
+    height: 0em;
+    margin: 0 0 0 -100%;
+    vertical-align: middle;
+    width: 50%;
+}
+
+.smarttrader__footer .divider:after {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    content: "";
+    display: inline-block;
+    height: 0;
+    margin: 0 0 0 -100%;
+    vertical-align: middle;
+    width: 50%;
+    margin: 0 -100% 0 0;
+}
+
+.smarttrader__footer .footer__column .footer__paragraph {
+    font-size: 13px;
+    line-height: 19.2px;
+    color: #8f9397;
+}
+
+.smarttrader__footer .footer__column {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+:lang(AR) .smarttrader__footer .footer__column--first {
+    padding-left: 20px;
+    text-align: right;
+    font-family: "Segoe", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:lang(AR) .smarttrader__footer .footer__column--second {
+    margin-right: 20px;
+}
+
+:lang(AR) .smarttrader__footer .footer__column--third {
+    margin-left: -20px;
+    padding-left: 135px;
+    text-align: right;
+    font-family: "Segoe", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:lang(AR) .smarttrader__footer .footer__column--second .widget {
+    margin-right: 0;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    text-align: right;
+}
+
+:lang(AR) .smarttrader__footer .footer__column--third {
+    direction: ltr;
+}
+
+:lang(AR) .smarttrader__footer .footer__column--third .footer-logo {
+    display: none;
+    text-align: right;
+}
+
+.smarttrader__footer .footer__column--first .footer__paragraph {
+    font-size: 14px;
+    line-height: 20.68px;
+}
+
+.smarttrader__footer .footer__paragraph {
+    margin-top: 0;
+}
+
+.smarttrader__footer .footer-content > .container,
+.smarttrader__footer .footer-copyright > .container {
+    max-width: 1200px;
+    padding: 0 15px;
+}
+
+@media screen and (max-width: 1230px) {
+    .smarttrader__footer .footer-content > .container,
+    .smarttrader__footer .footer-copyright > .container {
+        max-width: 100%;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .smarttrader__footer .container {
+        max-width: 1200px;
+    }
+    .smarttrader__footer .container {
+        width: 94%;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    :lang(AR) .smarttrader__footer .footer__column .footer__paragraph {
+        font-size: 14px;
+        line-height: 20.68px;
+    }
+    .smarttrader__footer .footer__column.footer__column--first {
+        padding-right: 105px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column--third {
+        margin-left: 0;
+    }
+    :lang(AR) .smarttrader__footer .footer__column--second {
+        margin-right: 0;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first {
+        padding-left: 140px;
+        padding-right: 15px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third .footer__paragraph {
+        font-size: 13px;
+        line-height: 19.2px;
+    }
+    .smarttrader__footer .footer__column.footer__column--second {
+        padding-left: 2rem !important;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third {
+        padding-left: 60px;
+        padding-right: 15px;
+    }
+    .smarttrader__footer .align-items-center {
+        margin: 0;
+    }
+    .smarttrader__footer .footer {
+        padding-top: 64px !important;
+    }
+    .smarttrader__footer .footer__column {
+        padding-left: 15px;
+        padding-right: 20px;
+    }
+    .smarttrader__footer .footer__column .widget ul {
+        margin-top: 0 !important;
+    }
+    .smarttrader__footer .media__empty {
+        display: none;
+    }
+    .smarttrader__footer .widget.address {
+        margin-left: -50px;
+        background-size: 55%;
+        background-position: 33% 12px;
+    }
+    :lang(AR) .smarttrader__footer .widget.address {
+        margin-left: 0;
+        margin-right: -70px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-size: 92%;
+        background-position: right 5px;
+    }
+    .smarttrader__footer .list-unstyled .media:nth-child(3) img {
+        margin-top: -16px;
+    }
+    :lang(AR) .smarttrader__footer .list-unstyled .media:nth-child(3) {
+        padding-left: 50px;
+        text-align: right;
+    }
+    :lang(AR) .smarttrader__footer .list-unstyled .media:nth-child(3) img {
+        margin-top: 0;
+    }
+    .smarttrader__footer .footer__column .media,
+    .smarttrader__footer .footer__column .media.footer__paragraph,
+    .smarttrader__footer .footer__column .media .footer__paragraph {
+        line-height: 21.24px;
+    }
+    .smarttrader__footer .footer-content .container {
+        padding: 0;
+    }
+    :lang(AR) .smarttrader__footer .footer-logo {
+        width: 170px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .smarttrader__footer .footer .container {
+        max-width: 100%;
+        width: 100%;
+        padding: 0 35px;
+    }
+    .smarttrader__footer .footer .row {
+        display: block;
+    }
+    .smarttrader__footer .footer__column {
+        max-width: 100%;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 811px) {
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first,
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third {
+        letter-spacing: -0.75px;
+    }
+    .smarttrader__footer .footer .container {
+        padding: 0 35px;
+    }
+    :lang(AR) .smarttrader__footer .footer .container {
+        padding: 0 35px;
+    }
+    .smarttrader__footer .media__empty {
+        display: none;
+    }
+    .smarttrader__footer .footer__column.footer__column--first {
+        padding-left: 0px;
+        padding-right: 20px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first {
+        padding-left: 30px;
+        padding-right: 0;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first .footer__paragraph {
+        margin-left: -10px;
+    }
+    .smarttrader__footer .footer__column.footer__column--second {
+        padding-left: 1rem !important;
+    }
+    .smarttrader__footer .footer__column.footer__column--third {
+        padding-left: 20px;
+        padding-right: 0;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third {
+        padding-left: 0;
+        padding-right: 40px;
+        padding-bottom: 32px !important;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third .widget {
+        margin-right: -14px;
+    }
+    .smarttrader__footer .widget.address {
+        margin-left: 0;
+        background-size: 55%;
+        background-position: 35px 15px;
+    }
+    :lang(AR) .smarttrader__footer .widget.address {
+        margin-right: -20px;
+        margin-left: -10px;
+        padding-left: 10px;
+        padding-right: 20px;
+        background-size: 100%;
+    }
+    :lang(AR) .smarttrader__footer .list-unstyled .media:nth-child(3) {
+        padding-left: 20px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column .media:nth-child(3) .footer__paragraph {
+        line-height: 21.24px;
+    }
+    .smarttrader__footer .footer {
+        padding: 64px 0 0 !important;
+    }
+    .smarttrader__footer .footer .row {
+        display: flex;
+        margin: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .smarttrader__footer .container {
+        max-width: 720px;
+    }
+    .smarttrader__footer img {
+        transform: none !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first,
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third {
+        letter-spacing: -1.15px;
+    }
+    :lang(AR) .smarttrader__footer .list-unstyled .media:nth-child(3) {
+        padding-left: 0;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first {
+        padding-left: 55px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first .footer__paragraph {
+        margin-left: -30px;
+    }
+    :lang(AR) .smarttrader__footer .widget.address {
+        margin-right: -30px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column .footer__paragraph {
+        margin-left: -10px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third {
+        padding-right: 55px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--second {
+        margin-left: -10px;
+        margin-right: 10px;
+    }
+}
+
+@media screen and (max-width: 429px) {
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first,
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third {
+        letter-spacing: 0;
+    }
+    .smarttrader__footer .footer {
+        padding: 64px 0 0 !important;
+    }
+    .smarttrader__footer .footer .container {
+        padding: 0 15px;
+    }
+    :lang(AR) .smarttrader__footer .footer .container {
+        padding: 0 20px;
+    }
+    :lang(AR) .smarttrader__footer .container .row {
+        flex-direction: column-reverse;
+    }
+    .smarttrader__footer .footer__column {
+        padding: 0 !important;
+    }
+    .smarttrader__footer .footer__column + .footer__column {
+        margin-top: 0 !important;
+    }
+    .smarttrader__footer .footer__column.footer__column--second {
+        padding-left: 0 !important;
+    }
+    .smarttrader__footer .footer__column.footer__column--second .widget {
+        overflow: hidden;
+    }
+    .smarttrader__footer .footer__column.footer__column--third {
+        padding-top: 10px !important;
+        padding-bottom: 40px !important;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first {
+        padding-bottom: 32px !important;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first .footer__paragraph {
+        margin-left: 0;
+        padding-left: 0;
+        letter-spacing: -1.2px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third {
+        padding-bottom: 0 !important;
+    }
+    :lang(AR) .smarttrader__footer .footer__column--first .footer-logo {
+        display: none;
+    }
+    :lang(AR) .smarttrader__footer .footer__column--third .footer-logo {
+        display: block;
+    }
+    .smarttrader__footer footer .widget {
+        margin-bottom: 0;
+    }
+    .smarttrader__footer .widget.address {
+        padding: 30px 0;
+        background-size: 75%;
+        background-position: 0 0;
+    }
+    :lang(AR) .smarttrader__footer .widget.address {
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+        background-size: 65%;
+        background-position: 110px 30px;
+    }
+    :lang(AR) .smarttrader__footer .footer-copyright .copyright-text {
+        text-align: center;
+    }
+    :lang(AR) .smarttrader__footer .footer__column--third .footer-logo {
+        margin-left: auto;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third .widget {
+        padding-left: 130px;
+        margin-right: 0;
+    }
+    :lang(AR) .smarttrader__footer .list-unstyled .media:last-child {
+        padding-left: 170px;
+    }
+}
+
+@media screen and (max-width: 428px) and (min-width: 415px) {
+    .smarttrader__footer .footer {
+        padding: 64px 0 0 !important;
+    }
+    .smarttrader__footer .footer .container {
+        padding: 0 22px;
+    }
+    :lang(AR) .smarttrader__footer .footer .container {
+        padding: 0 22px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third .widget {
+        padding-left: 140px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first .footer__paragraph {
+        margin-left: 0;
+        padding-left: 0;
+        letter-spacing: -1.1px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .smarttrader__footer,
+    .smarttrader__footer .row {
+        height: auto !important;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    :lang(AR) .smarttrader__footer .footer .container {
+        padding: 0 16px;
+    }
+    .smarttrader__footer .widget.address {
+        background-size: 80%;
+        background-position: 0 10px;
+    }
+    :lang(AR) .smarttrader__footer .widget.address {
+        background-size: 70%;
+        background-position: 80px 20px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third .widget {
+        padding-left: 115px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first .footer__paragraph {
+        letter-spacing: -1.45px;
+    }
+    :lang(AR) .smarttrader__footer .list-unstyled .media:last-child {
+        padding-left: 150px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    :lang(AR) .smarttrader__footer .widget.address {
+        background-size: 70%;
+        background-position: 75px 20px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--third .widget {
+        padding-left: 100px;
+    }
+    :lang(AR) .smarttrader__footer .list-unstyled .media:last-child {
+        padding-left: 140px;
+    }
+    :lang(AR) .smarttrader__footer .footer__column.footer__column--first .footer__paragraph {
+        letter-spacing: -1.6px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    :lang(AR) .smarttrader__footer .widget.address {
+        margin: 0rem 0rem 0rem 0rem;
+    }
+}

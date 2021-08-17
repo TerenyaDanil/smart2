@@ -1,0 +1,8 @@
+Uri: https://test1.tripmersion.com/smarttrader-ar
+File Name: c:\Downloaded Web Sites\test1.tripmersion.com\smarttrader-ar.html
+Content Type: text/html
+
+Uri: https://test1.tripmersion.com/smarttrader-ar/
+File Name: c:\Downloaded Web Sites\test1.tripmersion.com\smarttrader-ar\index.htm
+Content Type: text/html
+

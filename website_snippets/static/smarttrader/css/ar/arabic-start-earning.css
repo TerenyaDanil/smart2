@@ -1,0 +1,133 @@
+.darkened-form {
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 62px 22px;
+	border-radius: 3px;
+	box-shadow: -1px 1px 1px 1px rgba(0, 0, 0, 0.77);
+	width: 425px;
+}
+
+input.dark, input.dark:focus, input.dark:hover, input.dark:active {
+	font-size: 18px;
+	font-weight: bold;
+	border: 1px solid #f0f1f3;
+	color: #b9b9b9;
+	background-color: rgba(0, 0, 0, 0);
+}
+
+.arabic-label {
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 1.8;
+}
+
+.arabic-col {
+	position: relative;
+	width: 100%;
+}
+
+.w-300 {
+	width: 300px !important;
+}
+
+.s_title {
+	padding: 0;
+}
+
+.parallax {
+	z-index: 2;
+}
+
+@media screen and (max-width: 1540px) {
+	.oe_custom_bg {
+		background-position: 20% 0% !important;
+	}
+
+	.oe_structure .container {
+		max-width: 100%;
+		width: 100%;
+		padding: 0 35px;
+	}
+}
+
+@media screen and (max-width: 1420px) {
+	.oe_custom_bg {
+		background-position: 30% 0% !important;
+	}
+}
+
+@media screen and (max-width: 1220px) {
+	.oe_custom_bg {
+		padding: 0 !important;
+		background-position: 80% 0% !important;
+	}
+}
+
+@media screen and (max-width: 1080px) {
+	.oe_custom_bg {
+		background-position: 61% 0% !important;
+	}
+
+	.s_title {
+		padding: 0 !important;
+		margin-top: 60px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.oe_custom_bg {
+		background: url(/website_snippets/static/smarttrader/img/creative-6_tablet.jpg) no-repeat !important;
+		background-size: cover !important;
+		background-position: 40% 0 !important;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	.oe_custom_bg {
+		background-size: cover !important;
+		background-position: 80% 0 !important;
+	}
+}
+
+@media screen and (max-width: 769px) {
+	.oe_custom_bg {
+		background: url(/website_snippets/static/smarttrader/img/creative-6_tablet-mini.jpg) no-repeat !important;
+		background-size: cover !important;
+		background-position: 80% 0 !important;
+	}
+}
+
+@media screen and (max-width: 415px) {
+	.oe_custom_bg {
+		background: url(/website_snippets/static/smarttrader/img/creative-6_phone.jpg) no-repeat !important;
+		background-size: cover !important;
+	}
+
+	.oe_structure .container {
+		padding: 0 14px;
+	}
+}
+
+@media screen and (max-width: 376px) {
+	.s_title {
+		margin-top: 17px;
+	}
+}
+
+@media screen and (max-width: 1080px) {
+	.oe_custom_bg {
+		/* background: url(/website_snippets/static/smarttrader/img/creative-chine-tablet.jpg) no-repeat !important; */
+		background-size: cover !important;
+	}
+}
+
+/* Iphone 12 Pro Max (428px) */
+@media screen and (max-width: 428px) {
+	.oe_custom_bg {
+		/* background: url(/website_snippets/static/smarttrader/img/creative-chine-phone.png) no-repeat !important; */
+		background-size: cover !important;
+	}
+
+	.s_title > div {
+		text-align: center !important;
+	}
+}

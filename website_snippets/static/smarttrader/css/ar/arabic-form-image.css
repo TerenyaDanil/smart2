@@ -1,0 +1,69 @@
+/* Join form - Book */
+.join-form__section_book .join-form__background {
+    background: url(/website_snippets/static/smarttrader/img/start-earning-banner.jpg) no-repeat;
+    background-position: 85.41% 2.86%;
+    background-size: cover;
+}
+.join-form__section_book:before {
+    content: none;
+}
+.join-form__section_book .join-form__description_container {
+    display: none;
+}
+@media screen and (max-width: 1225px) {
+    .join-form__section_book .join-form__background {
+        background-position: top left 70%;
+    }
+}
+@media screen and (max-width: 811px) {
+    .join-form__section.join-form__section_book {
+        padding: 64px 0 48px;
+    }
+    .join-form__section_book .join-form__background {
+        background: none;
+    }
+    .join-form__section_book .join-form__description_container {
+        display: flex;
+    }
+    .join-form__img {
+        max-height: 710px;
+        height: 710px;
+        object-fit: cover;
+        max-width: 100%;
+    }
+    .join-form__section_book .join-form__form_container {
+        margin: 0;
+        border-radius: 0;
+    }
+    .join-form__title {
+        font-size: 27px;
+        line-height: 48px;
+    }
+    .join-form__input {
+        background: #c4c4c4;
+    }
+}
+@media screen and (max-width: 769px) {
+    .join-form__section_book {
+        padding: 64px 0 48px;
+    }
+    .join-form__section_book::before {
+        content: none;
+    }
+    .join-form__section_book .join-form__background {
+        display: none;
+    }
+    .join-form__section_book .join-form__form_container {
+        margin-top: 0;
+    }
+    .join-form__section_book .join-form__description_container {
+        display: block;
+    }
+    .join-form__img {
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+        vertical-align: bottom;
+    }
+}
+/* Join form - Book */
